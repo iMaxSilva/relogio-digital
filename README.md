@@ -7,7 +7,6 @@
 
 </div>
 
-<hr></hr>
 
 ### Tecnologias utilizadas
 
